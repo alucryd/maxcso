@@ -3,7 +3,7 @@
 #include "compress.h"
 #include "cso.h"
 #include "buffer_pool.h"
-#include "zopfli/zopfli.h"
+#include "zopfli.h"
 #ifndef NO_DEFLATE7Z
 #include "deflate7z.h"
 #endif
